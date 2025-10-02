@@ -1,0 +1,8 @@
+# create a virtual environment for streamlit project
+python -m venv streamlit-env
+
+# activate venv
+streamlit-env\Scripts\activate.bat
+
+#install streamlit
+pip install streamlit
